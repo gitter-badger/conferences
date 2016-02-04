@@ -1,5 +1,7 @@
 # conferences
 
+[![Join the chat at https://gitter.im/osher-atias/conferences](https://badges.gitter.im/osher-atias/conferences.svg)](https://gitter.im/osher-atias/conferences?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project was generated with the [Angular Full-Stack Generator](https://github.com/DaftMonk/generator-angular-fullstack) version 3.3.0-beta.0.
 
 ## Getting Started
